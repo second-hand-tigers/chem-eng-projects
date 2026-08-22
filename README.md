@@ -1,4 +1,4 @@
-# chem-eng-projects
+# Project Examples and Templates
 
 This repository serves as the central directory for example chemical engineering design projects. Each project repository demonstrates the full lifecycle of a capstone-style engineering design effort, from early ideation through final optimization and sustainment.
 
