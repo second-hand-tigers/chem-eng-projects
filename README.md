@@ -29,13 +29,16 @@ here as they're developed.)*
 | Here (`chem-eng-projects`) | Each project repo (e.g. `chem-eng-projects-MogasDebenz`) |
 |---|---|
 | General process-engineering philosophy and discussion | Project-specific milestones and Issues |
-| Cross-project conventions (e.g. how BFDs/PFDs are used, stakeholder-engagement approach) | Project-specific Wiki (job aids, model version changelog) |
-| Landing page linking to all projects | The actual flowsheet model, PFDs, and deliverables for that project |
+| Cross-project conventions (e.g. how BFDs/PFDs are used, stakeholder-engagement approach) | All team communication and mock stakeholder conversations, captured in Issue threads |
+| Landing page linking to all projects | Project-specific Wiki (job aids, model version changelog, and other knowledge capture) |
+| | The actual flowsheet model, PFDs, and deliverables for that project |
 
-If something applies to *how you approach any process-engineering
-project* — not just one — it belongs in this repo's Wiki. If it's specific
-to one project's design, schedule, or deliverables, it belongs in that
-project's own repo.
+Each project repo is the complete working record for that project — not
+just its final deliverables, but the discussion, decisions, and knowledge
+capture that produced them. If something applies to *how you approach any
+process-engineering project* — not just one — it belongs in this repo's
+Wiki. If it's specific to one project's design, schedule, deliverables, or
+history, it belongs in that project's own repo.
 
 ## Why Multiple Fictional Projects, One Shared Approach
 
