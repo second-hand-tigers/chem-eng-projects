@@ -1,9 +1,10 @@
-_[← Learning Hub](https://github.com/second-hand-tigers)_
+_[← Learning Hub](https://github.com/second-hand-tigers)_<br>
+_[Toggle to Page View](https://second-hand-tigers.github.io/chem-eng-projects/)_
+
 # Chem-Eng Projects
 
 This is the hub for **process engineering** projects — one topic area under
-the [Learning Hub](https://github.com/second-hand-tigers/eng-learning-hub).
-It holds the general philosophy and discussion that applies across
+the [Learning Hub](https://github.com/second-hand-tigers). It holds the general philosophy and discussion that applies across
 *multiple* process-engineering projects, and links out to each specific
 project's own repo. It does not hold any single project's milestones,
 Issues, or model files — those live in each project's dedicated repo.
