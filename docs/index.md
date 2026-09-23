@@ -3,6 +3,8 @@ layout: default
 title: Chem-Eng Projects
 ---
 
+<img src="https://second-hand-tigers.github.io/assets/images/logo_clear_background.png" alt="Second-Hand Tigers logo" width="120">
+
 _[← Learning Hub](https://second-hand-tigers.github.io/)_<br>
 _[Toggle to Repo View](https://github.com/second-hand-tigers/chem-eng-projects)_
 
